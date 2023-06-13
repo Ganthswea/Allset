@@ -52,8 +52,8 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=f"☀ SUPPORT ☀",
-                url=f"https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg",
+                text=f"🐈‍⬛️™Ŧнｅ𝐛𝐢𝔊 ℂคŤ 𝐅ᴇᴅ",
+                url=f"https://t.me/thebigcatfed",
             )
         ],
     ]
