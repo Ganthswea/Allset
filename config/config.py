@@ -30,7 +30,7 @@ UPSTREAM_REPO = getenv(
     "https://github.com/Ganthswea/Allset",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Ganthswea/Allset")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/hehehehehehe/Allset")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://telegra.ph/file/bf980312fac67b91b4912.jpg")
