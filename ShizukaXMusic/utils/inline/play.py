@@ -40,7 +40,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"
+                text=" sᴏᴜʀᴄᴇ ", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"
             ),
         ],
         [
@@ -74,7 +74,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"),
+            InlineKeyboardButton(text=" sᴏᴜʀᴄᴇ ", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"),
         ],
         [
             InlineKeyboardButton(
@@ -97,7 +97,7 @@ def stream_markup(_, videoid, chat_id):
                 text=_["PL_B_2"],
                 callback_data=f"add_playlist {videoid}",
             ),
-            InlineKeyboardButton(text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"),
+            InlineKeyboardButton(text=" sᴏᴜʀᴄᴇ ", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"),
         ],
         [
             InlineKeyboardButton(
