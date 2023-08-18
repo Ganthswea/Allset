@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: MachiBae
+    name: Allset
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 -m ShizukaXMusic
-    repo: https://github.com/Cutey02/As.git      
+    repo: https://github.com/Ganthswea/Allset.git      
     branch: main
     envVars:
       - key: BOT_TOKEN 
