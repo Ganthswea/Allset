@@ -141,6 +141,12 @@
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/Ganthswea/Allset"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
+</a></p>
+
+<p><a href="https://render.com/deploy?repo=https://github.com/Cutey02/As">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy">
+</a></p>
+</details>
 
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ᴠᴘs</b></summary>
